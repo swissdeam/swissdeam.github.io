@@ -8,8 +8,8 @@
 //     icon.onclick = (event) => event.stopPropagation();
 // }
 
-const businessCard = document.getElementById('businessCard');
+// const businessCard = document.getElementById('businessCard');
 
-businessCard.addEventListener('click', function() {
-    businessCard.style.transform = 'rotateX(-180deg)';
-});
+// businessCard.addEventListener('click', function() {
+//     businessCard.style.transform = 'rotateX(-180deg)';
+// });
